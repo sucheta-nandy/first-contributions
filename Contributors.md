@@ -41,6 +41,7 @@
 - [Wadgma Masab] (https://github.com/Wadgma)
 - [Patrick Haberern] (https://github.com/Habernet)
 - [Anthony Mahramus](https://github.com/mahramus)
+- [Sucheta Nandy]
 - [Baekhan Sung](https://github.com/mountwo23)
 - [Savethan Sritharan](https://github.com/sav7204)
 - [Alok Sahoo](https://github.com/aloks98)
@@ -124,6 +125,7 @@
 - [Rishabh Jain] (https://github.com/j-rishabh)
 - [sevonefive]
 - [Pietro Iaia] (https://github.com/PietroIaia)
+
 - [Abhishek Jain] (https://github.com/maniac-tech)
 - [Dhruv Vaghela] (https://github.com/Dhruvv4)
 - [Tim Windhorst] (https://github.com/atimw)
